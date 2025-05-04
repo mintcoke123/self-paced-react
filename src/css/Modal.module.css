@@ -3,7 +3,8 @@
 }
 
 .modalOpen {
-  display: block;
+
+  display: none;
 
 }
 
